@@ -1,0 +1,23 @@
+{
+  "name": "testing-framework-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsumme1/testing-framework-build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsumme1/testing-framework-build/issues"
+  },
+  "homepage": "https://github.com/Jsumme1/testing-framework-build#readme",
+  "bin": {
+    "tme": "index.js"
+  }
+}
