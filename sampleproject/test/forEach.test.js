@@ -21,4 +21,5 @@ it('should sum an array', () => {
 
 it('beforeEach is run each time', () => {
     assert.strictEqual(numbers.length, 3);
-})
+});
+

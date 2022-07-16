@@ -9,6 +9,7 @@
 ## Must be able to test browser based JS applications
 ## Must require minimal setup
 ## Must be able to test a whole application - not a small widget
+### Installation of JSDOM to simulate web browser in CLI node
 ## CLI must have a watch mode so dev doesn't need to repeatedly restart node (like nodemon)
 ## CLI must automatically find and run all files in the project that have a name of ".test.js"
 ### must use tme command from directory to be tested

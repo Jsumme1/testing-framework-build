@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Jsumme1/testing-framework-build#readme",
   "bin": {
     "tme": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "jsdom": "^20.0.0"
   }
 }
